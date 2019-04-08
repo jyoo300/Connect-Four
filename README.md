@@ -5,4 +5,4 @@ RandomAI.java creates an AI that plays pieces randomly.
 JohnAI.java creates an intelligent AI that plays pieces strategically.
 GUICF.java creates a GUI that displays the board and the pieces played.
 CFGame.java creates the basic structure of the game.
-ConsoleCF.java creates both single player and AI only games.
+ConsoleCF.java creates single player, two player, and AI only games.
