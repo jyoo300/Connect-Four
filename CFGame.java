@@ -1,4 +1,4 @@
-package ConnectFour;
+package Connect-Four;
 
 public class CFGame {
   //state[i][j]= 0 means the i,j slot is empty
