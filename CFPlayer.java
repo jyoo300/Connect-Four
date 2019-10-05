@@ -1,4 +1,4 @@
-package hw4;
+package Connect-Four;
 
 public interface CFPlayer {
   int nextMove(CFGame g);
