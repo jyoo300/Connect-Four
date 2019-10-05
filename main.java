@@ -1,4 +1,4 @@
-package hw4;
+package Connect-Four;
 
 //main page of the app
 public class main {
