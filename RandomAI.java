@@ -1,4 +1,4 @@
-package hw4;
+package Connect-Four;
 import java.util.Random;
 
 public class RandomAI implements CFPlayer {
